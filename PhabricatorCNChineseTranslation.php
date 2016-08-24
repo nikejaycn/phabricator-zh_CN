@@ -3453,7 +3453,7 @@ return array(
   'API token is not associated with a valid user.' => null,
 
   // src/applications/auth/controller/PhabricatorAuthRegisterController.php:631
-  'APPROVAL QUEUE' => null,
+  'APPROVAL QUEUE' => '等待审核',
 
   // src/applications/uiexample/examples/PhabricatorAphrontBarUIExample.php:69
   'ASCII star glyph bar' => null,
@@ -5166,7 +5166,7 @@ return array(
   'Approval (Multiple Choice)' => null,
 
   // src/applications/people/query/PhabricatorPeopleSearchEngine.php:149
-  'Approval Queue' => null,
+  'Approval Queue' => '等待审核',
 
   // src/applications/people/query/PhabricatorPeopleSearchEngine.php:241
   'Approve' => null,
@@ -8228,10 +8228,10 @@ return array(
   'Configured location for storing uploaded files on disk ("%s") does not exist, or is not readable or writable. Verify the directory exists and is readable and writable by the webserver.' => null,
 
   // src/applications/config/check/PhabricatorStorageSetupCheck.php:29
-  'Configuring File Storage' => null,
+  'Configuring File Storage' => '文件存储配置',
 
   // src/applications/people/controller/PhabricatorPeopleInviteSendController.php:124
-  'Confirm' => null,
+  'Confirm' => '确认',
 
   // src/applications/auth/controller/PhabricatorAuthConfirmLinkController.php:48
   'Confirm %s Account Link' => null,
@@ -8240,14 +8240,14 @@ return array(
   'Confirm Account Link' => null,
 
   // src/applications/people/controller/PhabricatorPeopleApproveController.php:58
-  'Confirm Approval' => null,
+  'Confirm Approval' => '确认审核',
 
   // src/applications/auth/controller/PhabricatorAuthConfirmLinkController.php:82
   'Confirm External Account Link' => null,
 
   // src/applications/people/controller/PhabricatorPeopleInviteSendController.php:117
   // src/applications/people/controller/PhabricatorPeopleInviteSendController.php:165
-  'Confirm Invites' => null,
+  'Confirm Invites' => '确认邀请',
 
   // src/applications/auth/controller/PhabricatorAuthConfirmLinkController.php:73
   'Confirm Link' => '确认链接',
@@ -8257,7 +8257,7 @@ return array(
   'Confirm Password' => '确认密码',
 
   // src/applications/diffusion/panel/DiffusionSetPasswordSettingsPanel.php:162
-  'Confirm VCS Password' => null,
+  'Confirm VCS Password' => '确认 VCS 密码',
 
   // src/applications/config/option/PhabricatorDeveloperConfigOptions.php:91
   'Confirm before redirecting so DarkConsole can be examined.' => null,
@@ -9361,7 +9361,7 @@ return array(
   'DETAILS' => '详情',
 
   // src/applications/auth/controller/PhabricatorAuthRegisterController.php:636
-  'DISABLE APPROVAL QUEUE' => null,
+  'DISABLE APPROVAL QUEUE' => '禁用审核申请',
 
   // src/applications/phriction/editor/PhrictionTransactionEditor.php:419
   'DOCUMENT CONTENT' => null,
@@ -11552,31 +11552,31 @@ return array(
   'Email Format' => '电子邮件格式',
 
   // src/applications/base/PhabricatorApplication.php:194
-  'Email Help' => null,
+  'Email Help' => '邮件帮助',
 
   // src/applications/people/controller/PhabricatorPeopleController.php:37
   // src/applications/auth/query/PhabricatorAuthInviteSearchEngine.php:106
-  'Email Invitations' => null,
+  'Email Invitations' => '邮件邀请',
 
   // src/applications/auth/query/PhabricatorAuthInviteSearchEngine.php:7
-  'Email Invites' => null,
+  'Email Invites' => '邮件邀请',
 
   // src/applications/settings/panel/PhabricatorEmailPreferencesSettingsPanel.php:80
-  'Email Notifications' => null,
+  'Email Notifications' => '邮件通知',
 
   // src/applications/paste/mail/PasteCreateMailReceiver.php:21
-  'Email Paste' => null,
+  'Email Paste' => '邮件正文粘贴',
 
   // src/applications/settings/panel/PhabricatorEmailPreferencesSettingsPanel.php:11
   // src/applications/settings/panel/PhabricatorEmailPreferencesSettingsPanel.php:181
-  'Email Preferences' => null,
+  'Email Preferences' => '邮件系统配置',
 
   // src/applications/auth/controller/PhabricatorEmailLoginController.php:116
   // src/applications/auth/controller/PhabricatorMustVerifyEmailController.php:33
-  'Email Sent' => null,
+  'Email Sent' => '发送邮件',
 
   // src/applications/people/storage/PhabricatorExternalAccount.php:122
-  'Email User' => null,
+  'Email User' => '邮件用户',
 
   // src/applications/base/controller/__tests__/PhabricatorAccessControlTestCase.php:85
   'Email Verification Required' => null,
@@ -30025,7 +30025,7 @@ return array(
   'User Activity Logs' => null,
 
   // src/applications/people/controller/PhabricatorPeopleController.php:31
-  'User Administration' => null,
+  'User Administration' => '用户管理',
 
   // src/applications/config/view/PhabricatorSetupIssueView.php:452
   'User Guide: Amazon RDS' => null,
@@ -30040,7 +30040,7 @@ return array(
   'User Interface' => '用户界面',
 
   // src/applications/metamta/constants/MetaMTAReceivedMailStatus.php:30
-  'User Mismatch' => null,
+  'User Mismatch' => '用户不匹配',
 
   // src/applications/policy/constants/PhabricatorPolicyType.php:27
   'User Policies' => '用户策略',
