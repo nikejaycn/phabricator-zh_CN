@@ -4513,19 +4513,19 @@ return array(
   'All Rooms' => '所有房间',
 
   // src/applications/herald/controller/HeraldTranscriptController.php:164
-  'All Rules' => null,
+  'All Rules' => '所有规则（Rules）',
 
   // src/applications/almanac/query/AlmanacServiceSearchEngine.php:42
-  'All Services' => null,
+  'All Services' => '所有服务',
 
   // src/applications/config/controller/PhabricatorConfigController.php:16
-  'All Settings' => null,
+  'All Settings' => '所有设置',
 
   // src/applications/legalpad/query/LegalpadDocumentSignatureSearchEngine.php:122
-  'All Signatures' => null,
+  'All Signatures' => '所有签名',
 
   // src/applications/nuance/query/NuanceSourceSearchEngine.php:36
-  'All Sources' => null,
+  'All Sources' => '所有来源',
 
   // src/applications/spaces/query/PhabricatorSpacesNamespaceSearchEngine.php:36
   'All Spaces' => null,
@@ -4534,17 +4534,17 @@ return array(
   'All Stories' => '所有反馈',
 
   // src/applications/phortune/query/PhortuneSubscriptionSearchEngine.php:109
-  'All Subscriptions' => null,
+  'All Subscriptions' => '所有订阅',
 
   // src/applications/project/controller/PhabricatorProjectBoardViewController.php:452
   // src/applications/maniphest/query/ManiphestTaskSearchEngine.php:235
   'All Tasks' => '所有任务',
 
   // src/applications/maniphest/controller/ManiphestReportController.php:225
-  'All Time' => null,
+  'All Time' => '所有时间',
 
   // src/applications/phrequent/query/PhrequentSearchEngine.php:91
-  'All Tracked' => null,
+  'All Tracked' => '所有跟踪',
 
   // src/applications/policy/query/PhabricatorPolicyQuery.php:164
   'All Users' => '所有用户',
@@ -4594,7 +4594,7 @@ return array(
   'Allow Any Host (Insecure!)' => null,
 
   // src/applications/auth/controller/config/PhabricatorAuthEditController.php:237
-  'Allow Auto Login' => null,
+  'Allow Auto Login' => '允许自动登录',
 
   // src/applications/passphrase/controller/PassphraseCredentialConduitController.php:76
   // src/applications/passphrase/controller/PassphraseCredentialViewController.php:93
@@ -8098,7 +8098,7 @@ return array(
   'Configure Macro.' => null,
 
   // src/applications/config/option/PhabricatorMetaMTAConfigOptions.php:11
-  'Configure Mail.' => null,
+  'Configure Mail.' => '邮件配置',
 
   // src/applications/config/option/PhabricatorMailgunConfigOptions.php:11
   'Configure Mailgun integration.' => null,
@@ -9463,33 +9463,33 @@ return array(
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:149
   // src/applications/config/controller/PhabricatorConfigDatabaseIssueController.php:118
   // src/applications/config/controller/PhabricatorConfigController.php:20
-  'Database' => null,
+  'Database' => '数据库',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseIssueController.php:17
   // src/applications/config/controller/PhabricatorConfigDatabaseIssueController.php:148
   // src/applications/config/controller/PhabricatorConfigController.php:22
-  'Database Issues' => null,
+  'Database Issues' => '数据库问题',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:72
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:95
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:161
   // src/applications/config/controller/PhabricatorConfigController.php:21
-  'Database Status' => null,
+  'Database Status' => '数据库状态',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:222
-  'Database Status: %s' => null,
+  'Database Status: %s' => '数据库状态: %s',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:446
-  'Database Status: %s.%s' => null,
+  'Database Status: %s.%s' => '数据库状态: %s.%s',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:678
-  'Database Status: %s.%s (%s)' => null,
+  'Database Status: %s.%s (%s)' => '数据库状态: %s.%s (%s)',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:557
-  'Database Status: %s.%s.%s' => null,
+  'Database Status: %s.%s.%s' => '数据库状态: %s.%s.%s',
 
   // src/applications/config/option/PhabricatorMySQLConfigOptions.php:11
-  'Database configuration.' => null,
+  'Database configuration.' => '数据库配置',
 
   // src/applications/config/management/PhabricatorConfigManagementGetWorkflow.php:87
   'Database source is not configured properly' => null,
@@ -24853,7 +24853,7 @@ return array(
   'Storage Directory OK' => null,
 
   // src/applications/files/applicationpanel/PhabricatorFilesApplicationStorageEnginePanel.php:87
-  'Storage Engines' => null,
+  'Storage Engines' => '存储引擎',
 
   // src/applications/diffusion/controller/DiffusionRepositoryEditStorageController.php:55
   // src/applications/diffusion/controller/DiffusionRepositoryEditMainController.php:620
@@ -25217,13 +25217,13 @@ return array(
   'Synchronization of parent task from Asana failed!' => null,
 
   // src/applications/meta/controller/PhabricatorApplicationEmailCommandsController.php:98
-  'Syntax' => null,
+  'Syntax' => '语法',
 
   // src/applications/config/option/PhabricatorSyntaxHighlightingConfigOptions.php:7
-  'Syntax Highlighting' => null,
+  'Syntax Highlighting' => '语法高亮',
 
   // src/applications/system/application/PhabricatorSystemApplication.php:6
-  'System' => null,
+  'System' => '系统',
 
   // src/applications/config/option/PhabricatorPHDConfigOptions.php:54
   'System user to run daemons as.' => null,
